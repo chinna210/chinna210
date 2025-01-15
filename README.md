@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chinna210
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...python
+- 👋 Hi, I’m @chinna Babu
+- 👀 I’m interested in ...Vulnerability Assessment and Penetration Testing.
+- ✨ I'm a "Certified Ethical Hacker" v12
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...baddipudichinna110@gmail.com
 
